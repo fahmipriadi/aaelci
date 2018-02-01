@@ -1,0 +1,10 @@
+basic info  64 kb block 8 kb
+permanent logging online flshback
+lokal
+auto
+
+
+data file
+autoextend 512 kb max size unlimited
+
+size 100 mb next extend 512 max unlimited  max unlimited
